@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Huitaa",
+"productVersion": "0.1",
+"dataUrl": "Lissajous curve.data.unityweb",
+"wasmCodeUrl": "Lissajous curve.wasm.code.unityweb",
+"wasmFrameworkUrl": "Lissajous curve.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.2f1"
+}
